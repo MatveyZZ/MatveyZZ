@@ -58,6 +58,7 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyZZ&show_icons=true&theme=radical&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyZZ&layout=compact&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyZZ"/>
 
 ---
 
