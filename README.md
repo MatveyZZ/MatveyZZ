@@ -56,7 +56,7 @@
 
 ## 📊 Статистика GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyZZ&show_icons=true&theme=radical&hide_title=true)  
+![GitHub stats](https://my-stats.vercel.app/api?username=MatveyZZ&show_icons=true&theme=radical&hide_title=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyZZ&layout=compact&theme=radical&size_weight=0.3&count_weight=0.7)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=MatveyZZ&theme=dark&background=00000000&border=00000000)](https://git.io/streak-stats)
