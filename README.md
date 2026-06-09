@@ -58,9 +58,8 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyZZ&show_icons=true&theme=radical&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatveyZZ&layout=compact&theme=radical)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=MatveyZZ)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatveyZZ&show_icons=true&theme=radical)
-<img src="https://github.com/MatveyZZ/MatveyZZ/blob/master/images/codeStats.svg" alt="Моя статистика кодинга"/>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=MatveyZZ&theme=dark&background=00000000&border=00000000)](https://git.io/streak-stats)
 
 ---
 
